@@ -50,9 +50,10 @@ Submit the following:
 
 ---
 
-[Github Repo Link](https://github.com/AyushSharma2007/day5.git)
+<img width="865" height="53" alt="Screenshot 2026-08-23 175935" src="https://github.com/user-attachments/assets/89ff5687-696e-46ca-a7a0-9ab3175e32e7" />
 
-
-<img width="934" height="132" alt="git log 06" src="https://github.com/user-attachments/assets/788b542b-dea5-490d-b5b8-49169dd32edd" />
-<img width="1815" height="548" alt="git repo 06" src="https://github.com/user-attachments/assets/6d6e1832-3e4b-40b1-ab7a-ea0b7c22273d" />
+[link to repo.txt](https://github.com/user-attachments/files/31349047/link.to.repo.txt)<img width="841" height="245" alt="Screenshot 2026-08-23 175917" src="https://github.com/user-attachments/assets/ad2a9091-b221-4e52-9d44-0ce815786bf6" />
+<img width="711" height="127" alt="Screenshot 2026-08-23 175859" src="https://github.com/user-attachments/assets/0768e730-558a-4bb0-bbe4-25943b0dc544" />
+<img width="748" height="177" alt="Screenshot 2026-08-23 175832" src="https://github.com/user-attachments/assets/e5a74004-5490-4097-88ee-bc752bc8308f" />
+<img width="801" height="240" alt="Screenshot 2026-08-23 175727" src="https://github.com/user-attachments/assets/e1269c1c-4324-45d6-a60e-95a7a9b119a2" />
 
