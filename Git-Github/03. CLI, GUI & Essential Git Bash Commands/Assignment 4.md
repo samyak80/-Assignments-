@@ -23,4 +23,5 @@ Perform the following in Git Bash and write the exact commands:
 
 ---
 
-<img width="1200" height="1600" alt="03-04" src="https://github.com/user-attachments/assets/ce94f8c0-1178-41ca-9a86-d5e209d43ddf" />
+<img width="3000" height="4000" alt="PXL_20260823_120314616" src="https://github.com/user-attachments/assets/93e590a6-221b-4e9f-abf8-5c6de6956f06" />
+
