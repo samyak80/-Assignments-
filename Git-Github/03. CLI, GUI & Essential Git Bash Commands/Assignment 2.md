@@ -14,6 +14,7 @@
 
 ---
 
-<img width="692" height="134" alt="git version 03-02" src="https://github.com/user-attachments/assets/eeeb55e1-f8db-4880-9d52-e3d8603f9044" />
-<img width="1698" height="870" alt="git bash as default 03-02" src="https://github.com/user-attachments/assets/e74b72e4-d475-471d-a6f0-495fad27251f" />
-<img width="1600" height="1200" alt="03-02" src="https://github.com/user-attachments/assets/5c473962-5647-452b-8fad-da00b5281e98" />
+<img width="483" height="89" alt="Screenshot 2026-08-23 185506" src="https://github.com/user-attachments/assets/51f9fb93-adab-4a7e-a970-fba08ec785c4" />
+<img width="4000" height="3000" alt="PXL_20260823_120312107" src="https://github.com/user-attachments/assets/a8ed64ae-18bf-4940-a9f3-ba4115956a48" />
+<img width="1431" height="88" alt="Screenshot 2026-08-23 185517" src="https://github.com/user-attachments/assets/9a347bdb-3082-4211-82b4-266d1b3ff0b7" />
+
