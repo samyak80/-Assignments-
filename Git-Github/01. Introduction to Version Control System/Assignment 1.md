@@ -15,9 +15,8 @@
 **Submission:** Written answers 
 
 ---
-<img width="1280" height="960" alt="01-01(1)" src="https://github.com/user-attachments/assets/9217fcc6-bbb6-46a8-b3ec-1d21956c417b" />
-
-<img width="1280" height="960" alt="01-01(2)" src="https://github.com/user-attachments/assets/151608cb-76f9-4496-b218-cb0f60062812" />
+<img width="1280" height="960" alt="01-01(1)" src="https://github.com/samyak80/assginment-of-git-hub/blob/main/assgin%201/PXL_20260823_114528781.jpg" />
+<img width="1280" height="960" alt="01-01(1)" src="https://github.com/samyak80/assginment-of-git-hub/blob/main/assgin%201/PXL_20260823_114536863.jpg" />
 
 
 
