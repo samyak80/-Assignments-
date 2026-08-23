@@ -19,5 +19,4 @@
 **Submission:** Written answers
 
 ---
-<img width="1600" height="1200" alt="04-02" src="https://github.com/user-attachments/assets/bc0e5bf9-c775-4765-962b-de1a82c7da4e" />
-<img width="1600" height="1200" alt="04-02(1)" src="https://github.com/user-attachments/assets/8b7e2f56-768d-4355-8c36-338b7fabcaf6" />
+<img width="4000" height="3000" alt="PXL_20260823_120636644" src="https://github.com/user-attachments/assets/ec8edf52-80e5-43f9-bd11-2ea3527fb97c" />
