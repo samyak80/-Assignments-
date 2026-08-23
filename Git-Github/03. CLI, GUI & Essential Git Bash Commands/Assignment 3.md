@@ -25,4 +25,5 @@
 **Submission:** List of commands used + short answers
 
 ---
-<img width="1600" height="1200" alt="03-03" src="https://github.com/user-attachments/assets/11432cda-00a0-4663-af73-126536199971" />
+<img width="4000" height="3000" alt="PXL_20260823_120312107" src="https://github.com/user-attachments/assets/a5c6e96b-ec86-446a-999b-c3368db989bd" />
+
