@@ -11,4 +11,4 @@
 **Submission:** Written answers
 
 ---
-<img width="1280" height="960" alt="02-01" src="https://github.com/user-attachments/assets/e3dd2290-4571-4962-b248-a85dadfe7dc5" />
+<img width="1280" height="960" alt="02-01" src="https://github.com/samyak80/assginment-of-git-hub/blob/main/Day%202/PXL_20260823_115412983.jpg" />
