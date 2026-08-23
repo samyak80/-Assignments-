@@ -18,7 +18,6 @@
 **Submission:** Screenshots + written answers
 
 ---
+<img width="283" height="31" alt="Screenshot 2026-08-23 173025" src="https://github.com/user-attachments/assets/242c35b6-a5a8-4161-97df-2885e79f8956" />
+<img width="1910" height="899" alt="Screenshot 2026-08-23 172705" src="https://github.com/user-attachments/assets/4f726738-88ac-498d-9a2d-08f8aaa4f2ba" />
 
-<img width="1459" height="670" alt="new repo 02-04" src="https://github.com/user-attachments/assets/dceaa059-f4ba-489b-80ff-60dbdee8b855" />
-<img width="1500" height="849" alt="github profile 02-04" src="https://github.com/user-attachments/assets/988e21c9-e2c2-4233-bb67-edc04c2e939b" />
-<img width="1280" height="960" alt="02-04" src="https://github.com/user-attachments/assets/c1050963-d84f-4b11-bb51-bbaeb459736a" />
