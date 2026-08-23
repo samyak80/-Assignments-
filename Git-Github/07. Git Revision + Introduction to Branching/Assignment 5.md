@@ -20,5 +20,5 @@
 
 ---
 
-<img width="1200" height="1600" alt="07-05" src="https://github.com/user-attachments/assets/5ff229dd-fd2b-48ae-b83f-e35e78b21569" />
-<img width="1600" height="1200" alt="07-05(!)" src="https://github.com/user-attachments/assets/42324f0d-477a-4017-a4df-75b0aefff6dc" />
+<img width="4000" height="3000" alt="PXL_20260823_123221822" src="https://github.com/user-attachments/assets/8d30b9c3-eb23-4cbd-a772-40709d785c74" />
+
