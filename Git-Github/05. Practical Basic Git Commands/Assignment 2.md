@@ -15,5 +15,5 @@
 
 ---
 
-<img width="1600" height="1200" alt="05-02" src="https://github.com/user-attachments/assets/e6a75d3c-3fda-4e74-9251-3cae4c7cf6ed" />
-<img width="1600" height="1200" alt="05-02(1)" src="https://github.com/user-attachments/assets/7ebc1b81-639e-4794-a406-debab2d49932" />
+<img width="3000" height="4000" alt="PXL_20260823_122029776" src="https://github.com/user-attachments/assets/a6be964a-1dcf-4f32-90be-b72fda9eed47" />
+
