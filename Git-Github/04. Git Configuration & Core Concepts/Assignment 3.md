@@ -22,4 +22,5 @@ Fill in the missing stages and the commands used at each step.
 **Submission:** Table + Flow + answers
 
 ---
-<img width="1600" height="1200" alt="04-03" src="https://github.com/user-attachments/assets/4e3d2c68-ca6c-442f-af81-feab551b8bf8" />
+<img width="4000" height="3000" alt="PXL_20260823_120636644" src="https://github.com/user-attachments/assets/e916c5b1-177f-4c27-9e83-7fe8d9a4a606" />
+
