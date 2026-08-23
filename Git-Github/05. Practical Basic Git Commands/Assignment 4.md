@@ -27,4 +27,4 @@ Remote Repository (GitHub)
 **Submission:** Written answers
 
 ---
-<img width="1600" height="1200" alt="05-04" src="https://github.com/user-attachments/assets/d72c4937-9407-4b29-a329-c1618a27d1e7" />
+<img width="4000" height="3000" alt="PXL_20260823_122034035" src="https://github.com/user-attachments/assets/a51eb1f5-4aad-4f2d-b127-08d4f621bfdc" />
