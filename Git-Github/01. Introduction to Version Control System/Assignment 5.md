@@ -13,5 +13,5 @@
 
 ---
 
-<img width="1280" height="960" alt="01-05(1)" src="https://github.com/user-attachments/assets/fbb7034f-b570-446e-9663-d0ff00d8802e" />
+<img width="1280" height="960" alt="01-05(1)" src="https://github.com/samyak80/assginment-of-git-hub/blob/main/assgin%201/PXL_20260823_114549283.jpg" />
 <img width="960" height="1280" alt="01-05(2)" src="https://github.com/user-attachments/assets/3a41dc96-8e67-4eee-9805-0d317612d10d" />
