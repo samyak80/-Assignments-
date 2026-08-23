@@ -15,6 +15,6 @@
 
 ---
 
-<img width="960" height="1280" alt="01-02(1)" src="https://github.com/user-attachments/assets/9d7dc368-615a-4898-8cc4-57d555ce7161" />
-<img width="960" height="1280" alt="01-02(2)" src="https://github.com/user-attachments/assets/f6b71332-9d7a-4ef9-b8a7-262eb0a2861f" />
-<img width="1040" height="611" alt="01-02(3)" src="https://github.com/user-attachments/assets/37820809-52b8-4c46-a889-4528148c38b0" />
+<img width="960" height="1280" alt="01-02(1)" src="https://github.com/samyak80/assginment-of-git-hub/blob/main/assgin%201/PXL_20260823_114536863.jpg" />
+<img width="960" height="1280" alt="01-02(2)" src="https://github.com/samyak80/assginment-of-git-hub/blob/main/assgin%201/PXL_20260823_114541875.jpg" />
+<img width="1040" height="611" alt="01-02(3)" src="https://github.com/samyak80/assginment-of-git-hub/blob/main/assgin%201/PXL_20260823_114546858.jpg" />
