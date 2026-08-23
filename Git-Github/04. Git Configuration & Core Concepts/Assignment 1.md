@@ -17,5 +17,6 @@
 **Submission:** Screenshot + written answers
 
 ---
-<img width="706" height="472" alt="config list 04-01" src="https://github.com/user-attachments/assets/cf6ed1a0-6602-4f16-a96d-441d58e6e105" />
+<img width="509" height="318" alt="Screenshot 2026-08-23 173552" src="https://github.com/user-attachments/assets/a0434c1a-8f2b-4d2b-b239-df66edc490c6" />
+
 <img width="1600" height="1200" alt="04-01" src="https://github.com/user-attachments/assets/a878e69e-c217-4543-bbb9-a30051b8122d" />
