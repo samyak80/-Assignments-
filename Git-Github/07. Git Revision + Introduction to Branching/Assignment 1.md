@@ -22,5 +22,4 @@
 **Submission:** Written answers
 
 ---
-<img width="1200" height="1600" alt="07-01" src="https://github.com/user-attachments/assets/b0499491-2883-446a-a41f-2255b2242ea7" />
-<img width="1600" height="1200" alt="07-01(!)" src="https://github.com/user-attachments/assets/0be681d9-ab04-4084-8f70-a92b8fed51a9" />
+<img width="3000" height="4000" alt="PXL_20260823_123208490" src="https://github.com/user-attachments/assets/82ef3fa3-b90f-4872-8c0c-53bbde0c74dc" />
