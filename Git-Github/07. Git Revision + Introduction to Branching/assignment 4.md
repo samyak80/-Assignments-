@@ -13,5 +13,6 @@
 
 ---
 
-<img width="1600" height="1200" alt="07-04" src="https://github.com/user-attachments/assets/bf1b8d2b-41b8-4e37-8969-651634f08479" />
-<img width="1600" height="1200" alt="07-04(!)" src="https://github.com/user-attachments/assets/18adf2fb-a641-48d8-a7f8-fbe1dd59ab0e" />
+<img width="4000" height="3000" alt="PXL_20260823_123221822" src="https://github.com/user-attachments/assets/bcc5b378-16ac-4ce9-b7fc-6c871d680502" />
+<img width="4000" height="3000" alt="PXL_20260823_123218084" src="https://github.com/user-attachments/assets/8875c120-cb27-400f-a2aa-91d982272388" />
+
