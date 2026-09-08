@@ -1,6 +1,5 @@
-# ==========================================
+
 # ASSIGNMENT - 2 (COMPLETE SOLUTIONS)
-# ==========================================
 
 print("--- TOPIC 1: TYPE CASTING ---")
 
@@ -22,7 +21,7 @@ print("Q3:", number_float, type(number_float))
 # Q4
 marks_q4 = 85.9
 marks_int_q4 = int(marks_q4)
-print("Q4:", marks_int_q4)  # Truncates decimal part to 85
+print("Q4:", marks_int_q4)
 
 # Q5
 roll_number = 101
@@ -36,7 +35,7 @@ v3 = str(100)
 v4 = int(45.8)
 print("Q6:", v1, type(v1), v2, type(v2), v3, type(v3), v4, type(v4))
 
-# Q7 (Predicted & Verified)
+# Q7
 a = "20"
 b = int(a)
 c = 10.8
