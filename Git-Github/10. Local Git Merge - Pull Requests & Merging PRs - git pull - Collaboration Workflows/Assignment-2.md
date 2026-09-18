@@ -22,6 +22,6 @@
 **Submit:** Link to the merged PR + screenshot of successful `git pull` + screenshot of GitHub PR (merged state).
 
 ---
-[github merged pr link](https://github.com/AyushSharma2007/Assignment10github.git)
+[github merged pr link](https://github.com/AyushSharma2007/Assignment10github/commit/92576a3154d219464b618b8ada669bc82d41e4dd)
 <img width="1102" height="342" alt="github10-02 (2)" src="https://github.com/user-attachments/assets/95b0fa53-3dab-41cf-bc02-875100bcb449" />
 <img width="585" height="847" alt="github10-02" src="https://github.com/user-attachments/assets/e3c5e39b-e360-4e0f-ae84-a3341ce7231a" />
