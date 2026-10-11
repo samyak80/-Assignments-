@@ -682,3 +682,4 @@ num2 = 2;
 
 // 5. Write a condition that checks if a variable input is strictly not equal to the string "0".
 // input !== "0"
+
