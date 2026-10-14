@@ -1117,3 +1117,166 @@ console.log(levelOpen)   // true
 // let x = "" || 0 || false || null || undefined || "OK";
 // console.log(x);  ===========>>>>>>> OK
 
+// Part H]: Type Coercion
+// Part a:
+
+//1. Convert the string "25" into a number using Number() and add 10 to it. Print the result.
+
+let str1 = "25"
+let num1 = Number(str1)
+console.log(num1 + 10)   // 35
+
+//2. Convert the number 100 into a string using String() and join it with " rupees". Print the result.
+
+let money = 100
+let moneyStr = String(money)
+console.log(moneyStr + " rupees")   // 100 rupees
+
+//3. Convert the value 0 into a boolean using Boolean() and print it.
+
+console.log(Boolean(0))   // false
+
+//4. Convert the value "Hello" into a boolean and print it.
+
+console.log(Boolean("Hello"))   // true
+
+//5. Use the unary + operator to convert "50" into a number and multiply it by 2.
+
+let fifty = "50"
+console.log(+fifty * 2)   // 100
+
+// Part b:
+//----------------/predicting output/:------------------------
+
+//6. Predict the output:
+// console.log("10" - 5);    ===========>>>>>>> 5
+// console.log("10" + 5);    ===========>>>>>>> 105   (+ with a string joins)
+// console.log("10" * 2);    ===========>>>>>>> 20
+// console.log("10" / 2);    ===========>>>>>>> 5
+
+//7. Predict the output:
+// console.log("5" - "2");   ===========>>>>>>> 3
+// console.log("5" + "2");   ===========>>>>>>> 52
+// console.log("5" * "2");   ===========>>>>>>> 10
+// console.log("5" / "2");   ===========>>>>>>> 2.5
+
+//8. Predict the output:
+// console.log(Number("123"));       ===========>>>>>>> 123
+// console.log(Number("123abc"));    ===========>>>>>>> NaN
+// console.log(Number(true));        ===========>>>>>>> 1
+// console.log(Number(false));       ===========>>>>>>> 0
+// console.log(Number(null));        ===========>>>>>>> 0
+// console.log(Number(undefined));   ===========>>>>>>> NaN
+
+//9. Predict the output:
+// console.log(Boolean(0));      ===========>>>>>>> false
+// console.log(Boolean(""));     ===========>>>>>>> false
+// console.log(Boolean("0"));    ===========>>>>>>> true   (non-empty string)
+// console.log(Boolean([]));     ===========>>>>>>> true   (arrays are always truthy)
+// console.log(Boolean({}));     ===========>>>>>>> true   (objects are always truthy)
+// console.log(Boolean(null));   ===========>>>>>>> false
+
+//10. Predict the output:
+// console.log(String(100));         ===========>>>>>>> 100
+// console.log(String(true));        ===========>>>>>>> true
+// console.log(String(null));        ===========>>>>>>> null
+// console.log(String(undefined));   ===========>>>>>>> undefined
+// console.log(100 + "");            ===========>>>>>>> 100
+// (all of these are strings, console.log just prints them without quotes)
+
+// Part c:
+//----------------/predicting output/:------------------------
+
+//11. Predict the output:
+// console.log("5" + 3 + 2);     ===========>>>>>>> 532   ("53" then "532")
+// console.log(5 + 3 + "2");     ===========>>>>>>> 82    (8 then "82")
+// console.log("5" - 3 + 2);     ===========>>>>>>> 4     (2 then 4)
+// console.log(5 - "3" + "2");   ===========>>>>>>> 22    (2 then "22")
+
+//12. Predict the output:
+// console.log(true + true);       ===========>>>>>>> 2
+// console.log(true + false);      ===========>>>>>>> 1
+// console.log(true + "false");    ===========>>>>>>> truefalse
+// console.log(false + "true");    ===========>>>>>>> falsetrue
+
+//13. Predict the output:
+// console.log(null + 5);          ===========>>>>>>> 5
+// console.log(undefined + 5);     ===========>>>>>>> NaN
+// console.log(null + "5");        ===========>>>>>>> null5
+// console.log(undefined + "5");   ===========>>>>>>> undefined5
+
+//14. Predict the output:
+// console.log([] + []);   ===========>>>>>>> "" (empty string, prints a blank line)
+// console.log([] + {});   ===========>>>>>>> [object Object]
+// console.log({} + []);   ===========>>>>>>> [object Object]
+// console.log({} + {});   ===========>>>>>>> [object Object][object Object]
+
+//15. Predict the output:
+// let a = "10";
+// let b = 5;
+// let c = a + b;
+// let d = a - b;
+// let e = +a + b;
+// console.log(c, typeof c);   ===========>>>>>>> 105 string
+// console.log(d, typeof d);   ===========>>>>>>> 5 number
+// console.log(e, typeof e);   ===========>>>>>>> 15 number
+
+//16. Predict the output:
+// console.log(!!"Hello");     ===========>>>>>>> true
+// console.log(!!"");          ===========>>>>>>> false
+// console.log(!!0);           ===========>>>>>>> false
+// console.log(!!1);           ===========>>>>>>> true
+// console.log(!!null);        ===========>>>>>>> false
+// console.log(!!undefined);   ===========>>>>>>> false
+
+//17. Predict the output:
+// console.log(Number(""));        ===========>>>>>>> 0
+// console.log(Number(" "));       ===========>>>>>>> 0    (spaces are trimmed, empty becomes 0)
+// console.log(Number("0"));       ===========>>>>>>> 0
+// console.log(Number("  25  "));  ===========>>>>>>> 25
+// console.log(Number("25px"));    ===========>>>>>>> NaN
+
+//18. Predict the output:
+// let val1 = "5";
+// let val2 = 2;
+// console.log(val1 + val2);    ===========>>>>>>> 52
+// console.log(+val1 + val2);   ===========>>>>>>> 7
+// console.log(val1 - val2);    ===========>>>>>>> 3
+// console.log(val1 * val2);    ===========>>>>>>> 10
+// console.log(val1 / val2);    ===========>>>>>>> 2.5
+
+// Bonus Mixed Practice Questions:
+//----------------/predicting output/:------------------------
+
+//19. Predict the output:
+// let count = 5;
+// console.log(typeof count++);   ===========>>>>>>> number  (count++ gives old value 5)
+// console.log(count);            ===========>>>>>>> 6
+// console.log(typeof ++count);   ===========>>>>>>> number
+// console.log(count);            ===========>>>>>>> 7
+
+//20. Predict the output:
+// let x = "10";
+// let y = ++x;
+// console.log(x, y, typeof x, typeof y);   ===========>>>>>>> 11 11 number number
+// (++ converts the string to a number first)
+
+//21. Predict the output:
+// let a = "5";
+// let b = a++;
+// console.log(a, b, typeof a, typeof b);   ===========>>>>>>> 6 5 number number
+// (a++ returns the OLD value, but already converted to number 5)
+
+//22. Predict the output:
+// console.log(typeof (1 + "2"));   ===========>>>>>>> string
+// console.log(typeof (1 - "2"));   ===========>>>>>>> number
+// console.log(typeof (1 * "2"));   ===========>>>>>>> number
+// console.log(typeof (1 / "2"));   ===========>>>>>>> number
+
+//23. Predict the output:
+// let val = null;
+// console.log(typeof val);    ===========>>>>>>> object  (famous JS quirk)
+// console.log(val + 1);       ===========>>>>>>> 1
+// console.log(val - 1);       ===========>>>>>>> -1
+// console.log(val * 1);       ===========>>>>>>> 0
+// console.log(Boolean(val));  ===========>>>>>>> false
